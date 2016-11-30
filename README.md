@@ -30,6 +30,6 @@ NIA    | User name | Repo | Improvement | Score
 610344 | SALUEÑA SEDILES, ASIER 
 680182 | SANZ ALCAINE, JORGE 
 534521 | SANZ VIDAL, AITOR 
-618051 | TOLON MARTÍN, CARLOS JAVIER 
+618051 | TOLON MARTÍN, CARLOS JAVIER | [test repo](https://github.com/ctolon22/lab5-soa/tree/test) | |
 643821 | VELA GARCÍA, JUAN 
 679609 | VIÑUALES SÁNCHEZ, PABLO 
