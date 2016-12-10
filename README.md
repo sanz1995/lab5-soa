@@ -24,7 +24,7 @@ NIA    | User name | Repo | Improvement | Score
 650448 | MURILLO MAGDALENA, JAVIER | [test repo](https://github.com/javmurillo/lab5-soa/tree/test) | Max command and tweet functionality
 453948 | NAVARRO CLARAS, MARIO 
 647973 | PERALTA MARTÍNEZ, SANTIAGO 
-683546 | PÉREZ CANCER, BEATRIZ 
+683546 | PÉREZ CANCER, BEATRIZ | [test repo](https://github.com/beapc18/lab5-soa/tree/test)
 686329 | ROIG JIMENEZ, ANA
 559207 | RUEDA MACÍAS, DANIEL 
 610344 | SALUEÑA SEDILES, ASIER 
