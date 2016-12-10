@@ -19,7 +19,7 @@ NIA    | User name | Repo | Improvement | Score
 681061 | MARTÍNEZ MENÉNDEZ, ALBERTO 
 576307 | MARTÍNEZ PÉREZ, ADRIAN 
 540891 | MENENDEZ MOYA, FRANCISCO 
-680882 | MORENO JIMENO, RUBÉN | [test repo](https://github.com/nebur395/lab5-soa/tree/test) | Improve functionality of search with lang parameter and change GUI forms | :gift:
+680882 | MORENO JIMENO, RUBÉN | [test repo](https://github.com/nebur395/lab5-soa/tree/test) | Improve functionality of search with lang parameter and change GUI forms |
 750849 | MOSQUERA ZAPATA, LUIS EDUARDO 
 650448 | MURILLO MAGDALENA, JAVIER 
 453948 | NAVARRO CLARAS, MARIO 
