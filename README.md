@@ -7,7 +7,7 @@ NIA    | User name | Repo | Improvement | Score
 666156 | BAREA LÓPEZ, DANIEL
 666179 | BARRIOS GIL, ÁLVARO
 612595 | BELTRÁN PIÑOL, VÍCTOR | [test repo](https://github.com/Victorbp09/lab5-soa/tree/test)
-683326 | BINTANED BASA, JESÚS
+683326 | BINTANED BASA, JESÚS | [test](https://github.com/jebiba95/lab5-soa/tree/test)
 649003 | CAUDEVILLA CASAUS, JOSE ÁNGEL
 750846 | DAVID MOLINA, JOHN ALEXIS
 529361 | DUMITRACHE , CATALIN  CONSTANTIN 
